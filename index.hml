@@ -1,7 +1,7 @@
 <html>
 <heat>
   <title>TRABAJO UNAD</title>
-  <link href-*main.css* rel-*stylesheet* />
+  <link href-"main.css" rel-"stylesheet" />
 </heat>
 <body>
   <h1>Trabajo Grupal</h1>
